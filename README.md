@@ -17,6 +17,6 @@ Neste projeto foi utilizado varias ferramentas, como por exemplo:
 
  - Firebase
 
- Entre outras...
+  Entre outras...
 
 Ainda não está 100% funcional!!
