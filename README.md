@@ -17,6 +17,6 @@ UUID
 
 Firebase
 
-...
+Entre outras...
 
-O projeto não está 100% funcional!!
+Ainda não está 100% funcional!!
