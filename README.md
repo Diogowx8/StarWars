@@ -9,14 +9,14 @@
 
 Neste projeto foi utilizado varias ferramentas, como por exemplo:
 
-MAteial UI, Core e Icons
+ - MAteial UI, Core e Icons
 
-React Router DOM
+ - React Router DOM
 
-UUID
+ - UUID
 
-Firebase
+ - Firebase
 
-Entre outras...
+ Entre outras...
 
 Ainda não está 100% funcional!!
